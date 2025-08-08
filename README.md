@@ -6,7 +6,7 @@ This repository contains SQL queries demonstrating the use of aggregate function
 
 •  AggregateFunctions.sql
 
-    Includes examples of:
+  Includes examples of:
 
    •  Aggregate functions: SUM, AVG, COUNT
 
