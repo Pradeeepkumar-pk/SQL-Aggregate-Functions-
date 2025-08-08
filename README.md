@@ -5,6 +5,7 @@ This repository contains SQL queries demonstrating the use of aggregate function
 📂 File Included
 
 •  AggregateFunctions.sql
+
     Includes examples of:
 
    •  Aggregate functions: SUM, AVG, COUNT
@@ -14,6 +15,7 @@ This repository contains SQL queries demonstrating the use of aggregate function
    •  Filtering groups with HAVING
 
 🗃️ Sample Tables Used
+
 •  authors
 
 •  books
